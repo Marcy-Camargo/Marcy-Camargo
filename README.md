@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Marcy!
+## Sobre mim
+- 🎓 Técnica em Desenvolvimento de Sistemas formada pela ETEC Jardim Ângela.
+- 💻 Experiência com Java OOP, JavaFX, JDBC, MySQL, Git, Maven e padrão MVC.
+- 🚀 Atualmente focada em Spring Boot, JPA/Hibernate e construção de APIs RESTful.
+- 📚 Finalizando o curso de Java Avançado (Udemy).
 
-<!--
-**Marcy-Camargo/Marcy-Camargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linguagens
+[![My Skills](https://skillicons.dev/icons?i=java,css)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## Frameworks e Bibliotecas 
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,mysql)](https://skillicons.dev)
+  
+## Ferramentas de Desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,postman,github)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você também me encontra em:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marcy-camargo-4a356923a/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:marcyelle.cassia@gmail.com)
