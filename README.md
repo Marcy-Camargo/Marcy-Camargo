@@ -16,4 +16,4 @@
 
 ### Você também me encontra em:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marcy-camargo-4a356923a/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:marcyelle.cassia@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=marcyelle.cassia@gmail.com)
